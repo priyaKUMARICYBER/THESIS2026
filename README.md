@@ -77,6 +77,6 @@ The goal was to determine what forensic evidence persists on disk versus what on
 |:---|:---|
 | `README.md` | This summary |
 | `figures/timeline_reconstruction_summary.png` | Full evidence-correlation timeline diagram |
-| `figures/autopsy_cookie_artifact.png` | Recovered browser cookie artifact (Autopsy) |
+| `autopsy_cookie_artifact.png` | Recovered browser cookie artifact (Autopsy) |
 
 > The full dissertation document is not published in this repository. It's available on request — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/priya-kumari-749525275) or [email](mailto:priyakofficial.2026@gmail.com).
