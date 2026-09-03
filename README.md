@@ -23,7 +23,7 @@ The goal was to determine what forensic evidence persists on disk versus what on
 
 **Recovered web cookie artifact — domain, browser, and timestamp correlation (Autopsy):**
 
-![Autopsy Cookie Artifact](./figures/autopsy_cookie_artifact.png)
+![Autopsy Cookie Artifact](autopsy_cookie_artifact.png)
 
 ---
 
