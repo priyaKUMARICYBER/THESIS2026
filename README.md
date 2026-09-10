@@ -75,7 +75,7 @@ The goal was to determine what forensic evidence persists on disk versus what on
 
 | File | Description |
 |:---|:---|
-| `README.md` | This summary |
+| *[README.md](README.md)* | This summary |
 | `timeline_reconstruction_summary.png` | Full evidence-correlation timeline diagram |
 | `autopsy_cookie_artifact.png` | Recovered browser cookie artifact (Autopsy) |
 
